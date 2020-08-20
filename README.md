@@ -1,4 +1,12 @@
-### Hi there 👋
+# :man_technologist: 👋 Hi, I'm Ruben G. Villar
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/rubengvillar/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5492236972743&text=Hola%20vi%20tu%20perfil%20en%20github!)](https://api.whatsapp.com/send?phone=5492236972743&text=Hola%20vi%20tu%20perfil%20en%20github!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soy@rubengvillar.com)](mailto:soy@rubengvillar.com)
+
+### Estadísticas interesantes
+
+![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=rubengvillar&show_icons=true)
 
 <!--
 **rubengvillar/rubengvillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
