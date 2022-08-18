@@ -1,7 +1,7 @@
 # :man_technologist: 👋 Hi, I'm Ruben G. Villar
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/rubengvillar/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soy@rubengvillar.com)](mailto:soy@rubengvillar.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soy@rubengvillar.com)](mailto:rubengvillardesign@gmail.com)
 
 ## ⚡ Technologies
 
