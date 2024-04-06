@@ -1,47 +1,37 @@
-# Astro Starter Kit: Minimal
+# :man_technologist: 👋 Hi, I'm Ruben G. Villar
 
-```sh
-npm create astro@latest -- --template minimal
-```
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/rubengvillar/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:soy@rubengvillar.com)](mailto:rubengvillardesign@gmail.com)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+## ⚡ Technologies
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-EAC117?style=flat&logo=javascript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-aqua?style=flat&logo=sql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-success?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
 
-## 🚀 Project Structure
+### Interesting stats
 
-Inside of your Astro project, you'll see the following folders and files:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubengvillar&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+<!--
+**rubengvillar/rubengvillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Here are some ideas to get you started:
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
